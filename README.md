@@ -38,20 +38,20 @@ According to the design specifications for the MechaCar suspension coils, the va
 
 I ran T-Tests on the suspension coil data to determine if the sample data is statistically difference from the assumed population mean of 1,500 PSI.
 
-I tested the data from all 3 lots together:
+### All Data:
 ![total test](Resources/total_test.png)
 
-Only Lot 1:
+### Only Lot 1
 ![lot1 test](Resources/lot1_test.png)
 
-Only Lot 2:
+### Only Lot 2
 ![lot2 test](Resources/lot2_test.png)
 
-Only Lot 3:
+### Only Lot 3:
 ![lot3 test](Resources/lot3_test.png)
 
 ### Analysis
-Assuming a significance level of 0.05, only lot 3 had a p-value below the significance level. Therefore, in total there is not enough evidence to reject the null hypothesis that the mean PSI of the data is statistically different from the population mean of 1,500. However, the data from lot 3 alone does show a statistically significant difference in mean.
+Assuming a significance level of 0.05, only lot 3 had a p-value below the significance level. Therefore, regarding the total data there is not enough evidence to reject the null hypothesis that the mean PSI of the data is statistically different from the population mean of 1,500. However, the data from lot 3 alone does show a statistically significant difference in mean.
 
 
 
