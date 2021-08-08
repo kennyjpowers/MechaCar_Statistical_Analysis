@@ -42,7 +42,7 @@ According to the design specifications for the MechaCar suspension coils, the va
 
 ## T-Tests on Suspension Coils
 
-I ran T-Tests on the suspension coil data to determine if the sample data is statistically difference from the assumed population mean of 1,500 PSI.
+I ran T-Tests on the suspension coil data to determine if the sample data is statistically different from the assumed population mean of 1,500 PSI.
 
 ### All Data:
 ![total test](Resources/total_test.png)
